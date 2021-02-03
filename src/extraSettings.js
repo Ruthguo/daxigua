@@ -35,7 +35,7 @@ let fruitSlowDown = false;
 let clickChangeFruit = false;
 
 // 广告链接：false 或为空字符串表示不会跳转到广告
-let adLink = 'https://hirateyurina.jp/';
+let adLink = 'https://techi-5g2kjkpdced878c4-1301657416.tcloudbaseapp.com/';
 
 // 修改网页标题：将 "合成大西瓜" 进行替换
 document.getElementsByTagName("title")[0].innerText = '合成大饼干';
